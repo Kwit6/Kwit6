@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kwit6
+- 👋 Hi, I’m Kwit
 - 👀 I’m interested in Physics
 - 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking to collaborate on Information Technology
